@@ -1,0 +1,7 @@
+C:\ProgramData\robocorp\ht\a4f9fcb_5a1fac3_9fcd2534\lib\site-packages\gevent\events.py:74: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  from pkg_resources import iter_entry_points
+C:\ProgramData\robocorp\ht\a4f9fcb_5a1fac3_9fcd2534\lib\site-packages\pkg_resources\__init__.py:2871: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('zope')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+D:\hovno NPS\nps-reconciliation\app\ReconcilationFactoryComponent.py:16: MonkeyPatchWarning: Monkey-patching ssl after ssl has already been imported may lead to errors, including RecursionError on Python 3.6. It may also silently lead to incorrect behaviour on Python 3.7. Please monkey-patch earlier. See https://github.com/gevent/gevent/issues/1016. Modules that had direct imports (NOT patched): ['urllib3.util.ssl_ (C:\\ProgramData\\robocorp\\ht\\a4f9fcb_5a1fac3_9fcd2534\\lib\\site-packages\\urllib3\\util\\ssl_.py)', 'urllib3.util (C:\\ProgramData\\robocorp\\ht\\a4f9fcb_5a1fac3_9fcd2534\\lib\\site-packages\\urllib3\\util\\__init__.py)']. 
+  monkey.patch_all()

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.9.13 on win32)" generated="20231008 10:55:03.109" rpa="true" schemaversion="3">
+<suite id="s1" name="Tasks" source="D:\hovno NPS\nps-reconciliation\tasks.robot">
+<test id="s1-t1" name="RPA Task" line="7">
+<kw name="Start" library="Bot">
+<msg timestamp="20231008 10:55:08.187" level="INFO">Opening browser 'chrome' to base url 'https://adminonepg.nepalpayment.com/'.</msg>
+<msg timestamp="20231008 10:55:23.824" level="FAIL">ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))</msg>
+<status status="FAIL" starttime="20231008 10:55:08.139" endtime="20231008 10:55:23.835"/>
+</kw>
+<kw name="Teardown" library="Bot" type="TEARDOWN">
+<status status="PASS" starttime="20231008 10:55:23.836" endtime="20231008 10:55:23.837"/>
+</kw>
+<status status="FAIL" starttime="20231008 10:55:08.137" endtime="20231008 10:55:23.838">ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))</status>
+</test>
+<doc>Template robot main suite.</doc>
+<status status="FAIL" starttime="20231008 10:55:03.112" endtime="20231008 10:55:23.838"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

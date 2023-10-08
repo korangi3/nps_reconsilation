@@ -1,0 +1,268 @@
+1693904035230	geckodriver	INFO	Listening on 127.0.0.1:62309
+1693904038287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc262a\\rust_mozprofilelZ5PCg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693904038916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1693904039010	Marionette	INFO	Listening on port 62319
+WebDriver BiDi listening on ws://127.0.0.1:62310
+Read port: 62319
+1693904039312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62310/devtools/browser/caf684c5-a27d-4ca5-a849-ac924e250220
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.nibl.com.np."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.nibl.com.np."
+1693904066030	Marionette	INFO	Stopped listening on port 62319
+Dynamically enable window occlusion 1
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15580, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1694757098580	geckodriver	INFO	Listening on 127.0.0.1:56942
+1694757101637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc99ee\\rust_mozprofileQK3Rka"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694757102354	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694757102457	Marionette	INFO	Listening on port 56955
+WebDriver BiDi listening on ws://127.0.0.1:56943
+Read port: 56955
+1694757102726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+DevTools listening on ws://127.0.0.1:56943/devtools/browser/5ba88258-0e1e-4f18-890a-42cd4ae334c1
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694757113681	Marionette	INFO	Stopped listening on port 56955
+[Parent 56260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694758346155	geckodriver	INFO	Listening on 127.0.0.1:57173
+1694758349162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc0aba\\rust_mozprofileDLuZDX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694758349518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694758349592	Marionette	INFO	Listening on port 57181
+WebDriver BiDi listening on ws://127.0.0.1:57174
+Read port: 57181
+1694758349809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+DevTools listening on ws://127.0.0.1:57174/devtools/browser/e570923d-800d-4e59-aaa4-8b7a5a0c18b0
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694758357874	Marionette	INFO	Stopped listening on port 57181
+[Parent 64860, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694829144658	geckodriver	INFO	Listening on 127.0.0.1:63191
+1694829147982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc416a\\rust_mozprofilerey9An"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694829148989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694829149166	Marionette	INFO	Listening on port 63203
+Read port: 63203
+WebDriver BiDi listening on ws://127.0.0.1:63192
+1694829149289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+DevTools listening on ws://127.0.0.1:63192/devtools/browser/4a55a9fd-bac8-4936-a3ab-11d05d578b18
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694829159164	Marionette	INFO	Stopped listening on port 63203
+[Parent 61096, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694832035380	geckodriver	INFO	Listening on 127.0.0.1:65461
+1694832038397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc155e\\rust_mozprofileVgT7w0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694832039335	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694832039489	Marionette	INFO	Listening on port 65471
+WebDriver BiDi listening on ws://127.0.0.1:65462
+Read port: 65471
+1694832039799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+DevTools listening on ws://127.0.0.1:65462/devtools/browser/0b93822a-2a81-49f2-a31e-15327e41418c
+1694832048995	Marionette	INFO	Stopped listening on port 65471
+[Parent 60088, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694864406195	geckodriver	INFO	Listening on 127.0.0.1:57679
+1694864409227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc09b2\\rust_mozprofilesV5otp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694864409940	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694864410046	Marionette	INFO	Listening on port 57690
+WebDriver BiDi listening on ws://127.0.0.1:57680
+Read port: 57690
+1694864410351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+DevTools listening on ws://127.0.0.1:57680/devtools/browser/a098bc9c-176d-46e3-8e39-8fb2c47c5f32
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694864425553	Marionette	INFO	Stopped listening on port 57690
+[Parent 58260, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694932797452	geckodriver	INFO	Listening on 127.0.0.1:50275
+1694932800480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "--remote-debugging-por ... " "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\robocorp\\temp\\4d65822107fc2696\\rust_mozprofile5Fqfb6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch gpu subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694932800830	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+1694932800910	Marionette	INFO	Listening on port 50283
+Read port: 50283
+WebDriver BiDi listening on ws://127.0.0.1:50276
+1694932800972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+JavaScript error: resource://gre/modules/ExtensionParent.sys.mjs, line 1778: TypeError: messageManager is null
+DevTools listening on ws://127.0.0.1:50276/devtools/browser/82e3eb43-1267-436d-8273-576db2e6dc46
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[Parent 64148, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:781
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1694932836176	Marionette	INFO	Stopped listening on port 50283
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/devtools-compatibility-browsers Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
